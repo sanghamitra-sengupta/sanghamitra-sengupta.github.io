@@ -1,4 +1,4 @@
-# **Sanghamitra Sengupta - Geospatial Analysis Portfolio**
+# **Sanghamitra Sengupta - GIS & Geospatial Analysis Works**
 
 Welcome to my GitHub Pages site! Explore my work to see how I combine data, technology, and spatial insights to address environmental and urban challenges.
 
