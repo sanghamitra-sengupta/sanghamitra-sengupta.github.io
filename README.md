@@ -3,4 +3,4 @@
 # Adv GIS Final Project
 - Work description
 - Link
-- [Human Footprint Index]()
+- [Human Footprint Index](https://github.com/sanghamitra-sengupta/Human-Footprint-Index.git)
