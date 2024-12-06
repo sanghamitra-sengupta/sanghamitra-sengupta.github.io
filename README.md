@@ -14,7 +14,7 @@ The **Human Footprint Index (HFI)** project is a comprehensive analysis of human
 - **Core Features**:
   - Dynamic calculation of the Human Footprint Index for user-specified regions.
   - Aggregation of multiple raster datasets to quantify human impact.
-  - Streamlined raster processing with metadata handling and efficient compression.
+  - Streamlined raster processing with efficient metadata handling.
 
 ### **Explore the Project**
 You can find the complete project and its code in my repository:  
