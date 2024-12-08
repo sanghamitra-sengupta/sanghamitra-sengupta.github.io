@@ -1,5 +1,10 @@
 title: Sanghamitra Sengupta
-#logo
 description: Hazards Geographer | MS
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
+#logo: /assets/logo.png # Optional
+author: Sanghamitra Sengupta
+email: ssngpta1@memphis.edu
+github_username: sanghamitra-sengupta
+#linkedin: https://www.linkedin.com/in/sanghamitra-sengupta/
+
 
